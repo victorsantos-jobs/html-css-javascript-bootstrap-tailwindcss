@@ -1,4 +1,5 @@
-<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<html>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 <style>
 
 
@@ -171,3 +172,6 @@ body {
     </ul>
   </div>
 </div>
+
+</html>
+
