@@ -49,6 +49,9 @@ body {
 .login input:nth-child(2) {
     background-image: url(lock.png);
 }
+.login input:nth-child(3) {
+    background-image: url(lock.png);
+}
 .login input::placeholder {
     font-size: 14px;
     color: #c0b4b4;
