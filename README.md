@@ -1,6 +1,6 @@
 
 <h1 align="center">Frontend</h1>
-<h2 align="center">html-css-javascript-bootstrap-tailwindcss</h2>
+<h2 align="center">html-css-javascript-bootstrap-tailwindcss</h2> <a href="https://github.com/victorsantos-jobs/react" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <h3>Template modern login</h3>
 
