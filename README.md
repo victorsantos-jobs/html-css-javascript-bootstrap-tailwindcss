@@ -2,6 +2,15 @@
 <h1 align="center">Frontend</h1>
 <h2 align="center">html-css-javascript-bootstrap-tailwindcss</h2> <a href="https://github.com/victorsantos-jobs/react" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
+<h3>Loja Virtual</h3>
+
+[Loja Virtual repository - repository](https://github.com/victorsantos-jobs/html-css-javascript-bootstrap-tailwindcss/tree/main/loja%20virtual)
+
+[Loja Virtual - Demo](https://lojavirtualdemo.vercel.app/)
+![login](https://github.com/victorsantos-jobs/html-css-javascript-bootstrap-tailwindcss/blob/main/loja%20virtual/1.png)
+
+
+
 <h3>Template modern login</h3>
 
 [template moder login - repository](https://github.com/victorsantos-jobs/html-css-javascript-bootstrap-tailwindcss/tree/main/template_login_moderno)
