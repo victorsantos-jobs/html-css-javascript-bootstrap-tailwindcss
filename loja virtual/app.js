@@ -17,37 +17,37 @@ let products = [
     {
         id: 1,
         name: 'Guitarra 1',
-        image: '1.PNG',
+        image: '1.png',
         price: 120000
     },
     {
         id: 2,
         name: 'Guitarra 2',
-        image: '2.PNG',
+        image: '2.png',
         price: 120000
     },
     {
         id: 3,
         name: 'Guitarra 3',
-        image: '3.PNG',
+        image: '3.png',
         price: 220000
     },
     {
         id: 4,
         name: 'Guitarra 4',
-        image: '4.PNG',
+        image: '4.png',
         price: 123000
     },
     {
         id: 5,
         name: 'Guitarra 5',
-        image: '5.PNG',
+        image: '5.png',
         price: 320000
     },
     {
         id: 6,
         name: 'Guitarra 6',
-        image: '6.PNG',
+        image: '6.png',
         price: 120000
     }
 ];
