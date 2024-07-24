@@ -47,7 +47,7 @@ let products = [
     {
         id: 6,
         name: 'Guitarra 6',
-        image: '6.png',
+        image: '2.png',
         price: 120000
     }
 ];
